@@ -10,11 +10,12 @@ text-align:left;
 }
 #header {
 text-align:left;
-color:#214555
+background-color:#214555;
 }
 #head-inner {
 margin:0px auto 0px auto;
 padding:10px 0px 0px 0px;
+background-color:#214555;
 width:694px;
 
 padding:25px;

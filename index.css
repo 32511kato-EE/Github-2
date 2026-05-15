@@ -10,7 +10,8 @@ text-align:left;
 }
 #header {
 text-align:left;
-background-color:#214555;
+#background-color:#214555;
+background: linear-gradient(to right, #e60000, #f39800,#fff100,#009944,#0068b7,#1d2088,#920783);
 }
 #head-inner {
 margin:0px auto 0px auto;
